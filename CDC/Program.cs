@@ -1,6 +1,6 @@
 using CDC;
 using IntegrationEventLogEF.Configuration;
-using RabbitMQEventBus.Configuration;
+using RabbitMQEventBus;
 using Serilog;
 using Serilog.Events;
 

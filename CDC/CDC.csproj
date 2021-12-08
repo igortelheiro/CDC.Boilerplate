@@ -7,13 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="EventBus.Core" Version="2.0.11" />
-    <PackageReference Include="IntegrationEventLogEF" Version="2.0.11" />
-    <PackageReference Include="MassTransit.EventBus.Core" Version="2.0.11" />
+    <PackageReference Include="EventBus.Core" Version="2.0.13" />
+    <PackageReference Include="IntegrationEventLogEF" Version="2.0.13" />
+    <PackageReference Include="MassTransit.EventBus.Core" Version="2.0.13" />
     <PackageReference Include="MassTransit.RabbitMQ" Version="7.3.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.0" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.0" />
-    <PackageReference Include="RabbitMQEventBus" Version="2.0.11" />
+    <PackageReference Include="RabbitMQEventBus" Version="2.0.13" />
     <PackageReference Include="Serilog" Version="2.10.0" />
     <PackageReference Include="Serilog.Extensions.Hosting" Version="4.2.0" />
     <PackageReference Include="Serilog.Sinks.Console" Version="4.0.1" />
